@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Ridwaan
 
-<!--
-**Ridwaan11p/Ridwaan11p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Ridwaan11p's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridwaan11p&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwaan11p&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ridwaan11p&theme=radical)
+
+## 👥 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Ridwaan11p&color=blue)
